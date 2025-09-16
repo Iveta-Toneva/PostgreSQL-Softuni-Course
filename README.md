@@ -1,1 +1,1 @@
-## ostgreSQL-Softuni-Course
+## PostgreSQL-Softuni-Course
